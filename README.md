@@ -51,7 +51,7 @@ pass jwt token in header
 
 # POST Artwork 
 `http://127.0.0.1:8000/api/artwork`  // i was unable to make it happen but
-pass jwt token in header // i was unable to make it happen but 
+pass jwt token in header 
 
 ''{
     "art_title": "Sunset at Sea",
