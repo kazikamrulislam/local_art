@@ -1,0 +1,11 @@
+django
+django-extensions
+djangorestframework
+djangorestframework-jsonapi
+markdown
+django-filter
+pyjwt
+django-cors-headers #to avoide the error for diffrent port of frontend and backend
+Pillow
+python-dotenv
+pytz
